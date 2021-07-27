@@ -41,7 +41,7 @@
     "webpack": "^5.1.0"
   },
   "dependencies": {
-    "schema-utils": "^3.0.0",
+    "schema-utils": "^3.1.0",
     "serialize-javascript": "^5.0.1"
   },
   "devDependencies": {
